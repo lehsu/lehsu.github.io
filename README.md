@@ -1,1 +1,2 @@
-#empty
+# computerblog
+CompTIA A+ CEUs blog
