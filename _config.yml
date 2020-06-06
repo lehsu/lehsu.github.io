@@ -6,5 +6,3 @@ permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-cayman
 
-gem "jekyll-paginate"
-gem "jekyll-feed", "~> 0.12"
