@@ -7,7 +7,8 @@ font-family: "Lora";
 src: url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;1,400;1,700&display=swap");
     } 
 body {
-    margin: 60px auto;
+    margin: auto;
+    padding: 60px;
     width: 70%;
     font-family: 'Lato';
     font-size: 14 px;
@@ -24,34 +25,38 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #7AC0B3;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration-color: #918971;
 }
 h1 {
     font-size: 18 px;
     font-family:'Lora', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-sie: 16 px;
+    font-size: 16 px;
     font-family: 'Lora';
 }
 p {
     font-size: 14 px;
     line-height: 1.4em;
     color: #333;
+    font-family: 'Lora';
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    font-family: 'Lora';
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 14 px;
+    font-family: 'Lora';
 }
 
 ul.posts li {
     list-style: none;
+    font-family: 'Lora';
 }
