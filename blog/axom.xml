@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://lehsu.github.io/blog</id>
 	<author>
-		<name>lesu</name>
+		<name>lehsu</name>
 		<!--<email>hankquinlanhub@gmail.com</email>-->
 	</author>
 
