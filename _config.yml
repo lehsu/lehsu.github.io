@@ -1,5 +1,5 @@
 
-name: Computer Blog!
+name: My Blog
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
