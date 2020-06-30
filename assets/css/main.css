@@ -15,10 +15,10 @@ body {
 }
 nav ul, footer ul {
     font-family: 'Lora', 'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 25px;
     list-style: none;
     font-weight: bold;
-    background-color: #1a0e0d;
+
 }
 nav ul li, footer ul li {
     display: inline;
