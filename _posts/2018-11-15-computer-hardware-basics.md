@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Computer Hardware Basics"
 date: 2018-11-15
 ---
