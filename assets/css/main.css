@@ -10,11 +10,12 @@ body {
     margin: auto;
     padding: 60px;
     width: 70%;
-    font-family: 'Lato';
+    font-family: 'Karla';
     font-size: 14 px;
 }
 nav ul, footer ul {
     font-family: 'Lora', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 26px;
     padding: 25px;
     list-style: none;
     font-weight: bold;
@@ -23,6 +24,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    padding: 25px;
 }
 a {
     text-decoration: none;
@@ -37,13 +39,11 @@ h1 {
 }
 h2 {
     font-size: 16 px;
-    font-family: 'Lora';
 }
 p {
     font-size: 14 px;
     line-height: 1.4em;
     color: #333;
-    font-family: 'Lora';
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -58,10 +58,8 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 14 px;
-    font-family: 'Lora';
 }
 
 ul.posts li {
     list-style: none;
-    font-family: 'Lora';
 }
