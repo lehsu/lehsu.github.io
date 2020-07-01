@@ -20,10 +20,17 @@ nav, nav ul, nav a {
     list-style: none;
     color: #333;
     padding-left: 0;
+    margin-bottom: 10px;
+    
+}
+nav {
+    border-bottom: 1px solid #d5d5d5;
+  
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+
 }
 
 footer, footer ul, footer a {
@@ -33,7 +40,7 @@ footer, footer ul, footer a {
     color: #828282;
     background-color: #333;
     padding-left: 5px;
-    border-radius: 2px;
+    border-radius: 3px;
 }
 a {
     text-decoration: none;
@@ -47,11 +54,13 @@ h1 {
     color: #333;
 }
 h2 {
-    font-size: 16 px;
+    font-size: 16px;
     color: #333;
+    font-family: "Lato", sans-serif; 
+    margin-top: 30px;
 }
 p {
-    font-size: 14 px;
+    font-size: 16px;
 }
 #date {
     color: #828282;
