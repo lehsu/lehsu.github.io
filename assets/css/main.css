@@ -11,25 +11,25 @@ body {
     padding: 60px;
     width: 70%;
     font-family: 'Karla', sans-serif;
-    font-size: 14 px;
+    font-size: 16px;
+    color: #6D6D6D;
 }
-nav ul {
+nav ul, nav a {
     font-family: 'Lora';
     font-size: 26px;
-    padding: 25px;
     list-style: none;
-    font-weight: bold;
+    color: #333;
+
 
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    padding: 25px;
 }
 
 footer ul, footer a {
     font-family: 'Karla', sans-serif;
-    font-size: 14 px;
+    font-size: 14px;
     padding: 10px;
     color: #828282;
 }
@@ -38,27 +38,30 @@ a {
     color: #7AC0B3;
 }
 a:hover {
-    text-decoration-color: #918971;
+    color: #828282;
 }
 h1 {
-    font-size: 18 px;
-    font-family:'Lora', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 18px;
+    color: #333;
 }
 h2 {
     font-size: 16 px;
+    color: #333;
 }
 p {
     font-size: 14 px;
-    line-height: 1.4em;
-    color: #333;
 }
 #date {
-    color: #918971;
+    color: #828282;
+}
+#blogposts {
+    font-size: 18px; 
+    font-family: "Lato", sans-serif;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    font-family: 'Lora';
+    font-family: 'Karla', sans-serif;
     position: absolute;
     bottom: 0;
     width: 100%;

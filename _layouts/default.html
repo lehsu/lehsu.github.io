@@ -2,16 +2,16 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/assets/css/main.css">
-  <head>
+		<nav>
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/about">About</a></li>
+				<li><a href="/blog">Blog</a></li>
+			</ul>
+		</nav>
+		<head>
 <body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
+	<div class="container">
 			
 			{{ content }}
 			
